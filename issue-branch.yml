@@ -1,4 +1,4 @@
-branchName: full
+branchName: tiny
 
 branches:
   - label: enhancement
