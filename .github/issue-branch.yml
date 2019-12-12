@@ -1,7 +1,8 @@
 branchName: tiny
 
 branches:
-  - name: dev
+  - label: enhancement
+    name: dev
     prefix: feature/${issue.user.login}/
   - label: bug
     name: master
